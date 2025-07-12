@@ -1,0 +1,4 @@
+name: EndGatewayBlocker
+version: '1.0-SNAPSHOT'
+main: seml.endGatewayBlocker.EndGatewayBlocker
+api-version: '1.21'
